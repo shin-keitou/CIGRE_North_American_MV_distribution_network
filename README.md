@@ -1,1 +1,1 @@
-# CIGRE_North_American_MV_distribution_network
+NEDOの特別講座の一環でCIGREの標準モデルにIBRを連系した解析モデル(Matlab Simulink)およびその系統の縮約モデルを公開いたします
