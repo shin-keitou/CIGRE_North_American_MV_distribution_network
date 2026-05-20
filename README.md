@@ -1,1 +1,1 @@
-CIGREの標準モデルにIBRを連系した解析モデル(Matlab Simulink)およびその系統の縮約モデルを公開いたします。使用方法につきましては、Wordファイルread meをご確認ください。
+CIGREの標準モデルにIBRを連系した解析モデル(Matlab Simulink)およびその系統の縮約モデルを公開いたします。使用方法につきましては、Wordファイルread me.docxをご確認ください。
